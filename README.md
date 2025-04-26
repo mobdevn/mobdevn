@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bheeman 
+- 👋 Hi, I’m @bheemann
 - 👀 I’m interested in a lot of things, Android, Flutter, iOS, Python, OpenCV, AWS, AI - ML, NLP 
 - 🌱 I’m currently learning AWS, ML, NLP
 - 💞️ I’m looking to collaborate on ML, NLP, OpenCV
